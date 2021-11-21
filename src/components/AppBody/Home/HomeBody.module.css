@@ -1,0 +1,26 @@
+.tabContent {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.contentShare {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.shareIcons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+.shareIcons div {
+  font-weight: bold;
+  padding-right: 10px;
+}
+.shareIconStyle {
+  cursor: pointer;
+}
