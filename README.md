@@ -3,7 +3,7 @@ After cloning the project using the following steps:
 1. Clone AppNews repo or click on download from Github.
 2. Go to directory C:\Users\yourComputerName\Desktop\appNews-master\appNews-master
 3. In this directory press Ctrl + L
-4. Type cmd and enter
+4. Type cmd and press enter
 5. Type command npm i or npm install
 6. After downloading packages in the next command type npm run build
 7. Change directory by typing cd build
