@@ -1,4 +1,4 @@
-After cloning the project, do the following steps:
+After cloning the project using the following steps:
 
 1. Clone AppNews repo or click on download from Github.
 2. Go to directory C:\Users\yourComputerName\Desktop\appNews-master\appNews-master
