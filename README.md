@@ -1,13 +1,16 @@
-In the project directory, you can run:
+After cloning the project do the following steps:
 
-1- Clone AppNews repo.
-2- In vs-code run below command:
+Clone AppNews repo or click on download from Github.
+Go to directory C:\Users\yourComputerName\Desktop\appNews-master\appNews-master
+In this directory press Ctrl + L
+Type cmd and enter
+Type command npm i or npm install
+After downloading packages in the next command type npm run build
+Change directory by typing cd build
+Type npm start
+Select Y or y
+Your default browser automatically opened and enjoy it :)
+or
 
-### `yarn build` or `npm build`  for build project and get dependencies
-
-### `yarn start` or `npm start` for run project on port 3000
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-![alt text](https://github.com/jamalkaksouri/appNews/blob/master/public/images/bg.png)
+Open http://localhost:3000 to view it in the browser.
 
